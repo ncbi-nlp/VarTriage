@@ -33,4 +33,4 @@ To run this code, you need to download pre-trained word2vec files.
  - PubMed W2V: http://bio.nlplab.org/ 
  - Google News: https://github.com/mmihaltz/word2vec-GoogleNews-vectors
 
-Please contact Kyubum Lee(Kyubum[dot]Lee[at]nih[dot]gov) for questions or comments.
+Please contact Kyubum Lee (Kyubum[dot]Lee[at]nih[dot]gov) for questions or comments.
