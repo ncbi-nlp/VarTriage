@@ -13,12 +13,12 @@ PubMed: https://www.ncbi.nlm.nih.gov/pubmed/
 (The shared datasets are only for testing the classifiers only.)
 
 Required environment: 
-Python 2.7
-h5py==2.7.1
-Keras==2.1.5
-numpy==1.14.1
-scikit-learn==0.19.1
-tensorflow-gpu==1.6.0
+Python 2.7, 
+h5py==2.7.1, 
+Keras==2.1.5, 
+numpy==1.14.1, 
+scikit-learn==0.19.1, 
+tensorflow-gpu==1.6.0, 
 gensim==3.4.0
 
 We built our code based on following sources: 
@@ -32,8 +32,11 @@ https://github.com/alexander-rakhlin/CNN-for-Sentence-Classification-in-Keras
 Keras CNN Example - mnist dataset : 
 https://github.com/keras-team/keras/blob/master/examples/mnist_cnn.py
 
-To run this code, you need to download pre-trained word2vec files. 
+To run this code, you need to download pre-trained word2vec files.
+
  - PubMed W2V: http://bio.nlplab.org/ 
+ 
  - Google News: https://github.com/mmihaltz/word2vec-GoogleNews-vectors
+
 
 Please contact Kyubum Lee (Kyubum[dot]Lee[at]nih[dot]gov) for questions or comments.
