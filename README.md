@@ -4,8 +4,11 @@ VarTriage Deep-learning based document classification method
 
 The source of data
 UniProtKB/SwissProt: http://www.uniprot.org/downloads
+
 The GWAS Catalog: https://www.ebi.ac.uk/gwas/docs/file-downloads
+
 mycoSet: https://github.com/TsangLab/mycoSORT
+
 PubMed: https://www.ncbi.nlm.nih.gov/pubmed/
 (The shared datasets are only for testing the classifiers only.)
 
