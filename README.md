@@ -23,14 +23,11 @@ gensim==3.4.0
 
 We built our code based on following sources: 
 
-Convolutional Neural Networks for Sentence Classification (Yoon Kim):
-https://github.com/yoonkim/CNN_sentence
+- Convolutional Neural Networks for Sentence Classification (Yoon Kim): https://github.com/yoonkim/CNN_sentence
 
-Convolutional Neural Networks for Sentence Classification (Alexander Rakhlin): 
-https://github.com/alexander-rakhlin/CNN-for-Sentence-Classification-in-Keras
+- Convolutional Neural Networks for Sentence Classification (Alexander Rakhlin): https://github.com/alexander-rakhlin/CNN-for-Sentence-Classification-in-Keras
 
-Keras CNN Example - mnist dataset : 
-https://github.com/keras-team/keras/blob/master/examples/mnist_cnn.py
+- Keras CNN Example - mnist dataset : https://github.com/keras-team/keras/blob/master/examples/mnist_cnn.py
 
 To run this code, you need to download pre-trained word2vec files.
 
